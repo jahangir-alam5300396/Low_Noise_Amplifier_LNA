@@ -5,7 +5,6 @@ This repository contains the design and documentation of a **Low Noise Amplifier
 📄 Full project report is available in:
 - `Low-Noise-Amplifier-Project-Report.pdf`
 
-
 ##  Project Overview
 - **Objective**: Design a low-noise amplifier (LNA) with maximum transducer gain and unconditional stability.
 - **Technology**: Rogers RO4003C substrate, thickness 32 mil, with copper cladding.
